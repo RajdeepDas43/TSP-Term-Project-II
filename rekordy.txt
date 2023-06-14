@@ -1,0 +1,23 @@
+berlin52: 7544.37!!! - maksimum
+25 12 28 27 26 47 13 14 52 11 51 33 43 10 9 8 41 19 45 32 49 1 22 31 18 3 17 21 42 7 2 30 23 20 50 29 16 46 44 34 35 36 39 40 37 38 48 24 5 15 6 4
+int numOfEpochs = 1000;
+int generationSize = 1000;
+int tournamentSize = 500;
+double mutationRate = 0.005;
+bool elitism = false;
+
+bier127: 121509
+
+tsp1000: 28178
+
+tsp500: 94902.2
+int n = 10;
+int count = 1000;
+NoE: 1000
+genSize: 5000
+tourSize: 2
+mutRate: 0.001
+elitism: 1
+
+tsp250: 13053
+
